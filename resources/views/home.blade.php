@@ -9,7 +9,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-        @vite('resources/css/app.css')
+        @vite('resources/css/app.css');
 
         
         <!-- Styles -->
